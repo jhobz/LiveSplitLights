@@ -1,0 +1,17 @@
+{
+  "name": "livesplit-lights",
+  "version": "0.0.1",
+  "description": "custom tool for blinking lights based on livesplit actions",
+  "main": "test.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JHobz",
+  "license": "ISC"
+}
